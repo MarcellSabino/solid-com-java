@@ -19,5 +19,6 @@ public class ReajusteService {
 		BigDecimal salarioReajustado = funcionario.getSalario().add(aumento);
 		funcionario.atualizarSalario(salarioReajustado);
 	}
-	
+
 }
+
