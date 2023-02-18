@@ -1,12 +1,13 @@
-##############################
-## Java
-##############################
+
+###############################
+### Java
+###############################
 .mtj.tmp/
-*.class
-*.jar
-*.war
-*.ear
-*.nar
+.class
+.jar
+.war
+.ear
+.nar
 hs_err_pid*
 replay_pid*
 
@@ -19,9 +20,9 @@ tmp/
 .metadata
 .classpath
 .project
-*.tmp
-*.bak
-*.swp
+.tmp
+.bak
+.swp
 *~.nib
 local.properties
 .loadpath
@@ -83,3 +84,6 @@ nb-configuration.xml
 ## OS X
 ##############################
 .DS_Store
+
+
+
