@@ -3,7 +3,7 @@ package br.com.alura.rh.model;
 import java.math.BigDecimal;
 import java.time.LocalDate;
 
-
+//teste ssh!
 public class Funcionario {
 
 	private String nome;
