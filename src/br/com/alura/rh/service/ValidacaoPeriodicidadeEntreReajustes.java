@@ -1,4 +1,4 @@
-package br.com.alura.rh.service.reajuste;
+package br.com.alura.rh.service;
 
 import java.math.BigDecimal;
 import java.time.LocalDate;
